@@ -83,16 +83,17 @@ span {
    
 }
 
+.profile-image {
+    margin-right: 30px;
+}
+
 .skills-image {
-    background-color: #e0fcff;
-    border-radius: 100%;
     width: 25%;
     float: left;
     margin-right: 30px;
 }
 
 .cooking-image {
-    background-color: black;
     border-radius: 100%;
     width: 25%;
     float: right;
